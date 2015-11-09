@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Jackrabbitrocks
 ---
 
-This is the portfolio of Jackrabbit Pollack Designer/Developer/Revolutionary
+This **is** the portfolio of Jackrabbit Pollack Designer/Developer/Revolutionary
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
